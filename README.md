@@ -16,14 +16,11 @@ Graph Engineering studies how explicit, dynamic, and evolving graph structures c
 **📃 Please [cite our paper](#-citation)** if you find this survey or repository helpful.
 
 ```bibtex
-@misc{feng2026graphengineeringerallm,
-      title={Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence},
-      author={Yuyuan Feng and Zhishang Xiang and Chaobin Yang and Qichao Ma and Zerui Chen and Yujing Zhang and Ke Huang and Chuanjie Wu and Zhaoxu Liu and Yili Wang and Xin He and Jiapu Wang and Zijin Hong and Hao Chen and Yuanchen Bei and Kun Wang and Shengyuan Chen and Ningyu Zhang and Enyan Dai and Linhao Luo and Qingyi Pan and Qi Wang and Wenqi Fan and Guangjing Wang and Na Zou and Yangqiu Song and Xin Wang and Zechao Li and Xia Hu and Qing Li and Xiao Huang and Zhihong Zhang and Jinsong Su and Qinggang Zhang and Yi Chang},
-      year={2026},
-      eprint={2608.21156},
-      archivePrefix={arXiv},
-      primaryClass={cs.IR},
-      url={https://arxiv.org/abs/2608.21156},
+@article{feng2026graph,
+  title={Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence},
+  author={Feng, Yuyuan and Xiang, Zhishang and Yang, Chaobin and Ma, Qichao and Chen, Zerui and Zhang, Yujing and Huang, Ke and Wu, Chuanjie and Liu, Zhaoxu and Wang, Yili and others},
+  journal={arXiv preprint arXiv:2608.21156},
+  year={2026}
 }
 ```
 
@@ -674,14 +671,11 @@ Representative systems and application domains covered by the survey:
 If you find this repository useful, please cite the accompanying survey:
 
 ```bibtex
-@misc{feng2026graphengineeringerallm,
-      title={Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence},
-      author={Yuyuan Feng and Zhishang Xiang and Chaobin Yang and Qichao Ma and Zerui Chen and Yujing Zhang and Ke Huang and Chuanjie Wu and Zhaoxu Liu and Yili Wang and Xin He and Jiapu Wang and Zijin Hong and Hao Chen and Yuanchen Bei and Kun Wang and Shengyuan Chen and Ningyu Zhang and Enyan Dai and Linhao Luo and Qingyi Pan and Qi Wang and Wenqi Fan and Guangjing Wang and Na Zou and Yangqiu Song and Xin Wang and Zechao Li and Xia Hu and Qing Li and Xiao Huang and Zhihong Zhang and Jinsong Su and Qinggang Zhang and Yi Chang},
-      year={2026},
-      eprint={2608.21156},
-      archivePrefix={arXiv},
-      primaryClass={cs.IR},
-      url={https://arxiv.org/abs/2608.21156},
+@article{feng2026graph,
+  title={Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence},
+  author={Feng, Yuyuan and Xiang, Zhishang and Yang, Chaobin and Ma, Qichao and Chen, Zerui and Zhang, Yujing and Huang, Ke and Wu, Chuanjie and Liu, Zhaoxu and Wang, Yili and others},
+  journal={arXiv preprint arXiv:2608.21156},
+  year={2026}
 }
 ```
 
