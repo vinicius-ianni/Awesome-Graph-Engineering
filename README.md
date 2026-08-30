@@ -350,7 +350,7 @@ Graph Engineering provides a structured path from standalone model capability to
 - (arXiv 2025) **EvoFlow** — EvoFlow: Evolving Diverse Agentic Workflows On The Fly [[Paper]](https://arxiv.org/abs/2502.07373)
 - (arXiv 2025) **QualityFlow** — QualityFlow: An Agentic Workflow for Program Synthesis Controlled by LLM Quality Checks [[Paper]](https://arxiv.org/abs/2501.17167)
 - (arXiv 2026) **FlowSteer** — FlowSteer: Prompt-Only Workflow Steering Exposes Planning-Time Vulnerabilities in Multi-Agent LLM Systems [[Paper]](https://arxiv.org/abs/2605.11514)
-- (arXiv 2026) **AgenticLab** — PLanAR: Planning-Language-Grounded Agentic Reasoning for Robot Manipulation [[Paper]](https://arxiv.org/abs/2602.01662)
+- (arXiv 2026) **AgenticLab** — AgenticLab: A Real-World Robot Agent Platform that Can See, Think, and Act [[Paper]](https://arxiv.org/abs/2602.01662v1)
 - (arXiv 2025) **ScalingAgent** — Towards a science of scaling agent systems [[Paper]](https://arxiv.org/abs/2512.08296)
 
 #### Agent Coordination
