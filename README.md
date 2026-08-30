@@ -359,6 +359,7 @@ Graph Engineering provides a structured path from standalone model capability to
   <img width="100%" src="images/image5.png" alt="Agent coordination through capability, team, and communication graphs">
   <p><em>Agent Coordination through capability mapping, team organization, and communication structures.</em></p>
 </div>
+
 - (NeurIPS 2023) **CAMEL** — CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society [[Paper]](https://proceedings.neurips.cc/paper/2023/hash/a3621ee907def47c1b952ade25c67698-Abstract-Conference.html)
 - (COLM 2024) **DyLAN** — A dynamic LLM-powered agent network for task-oriented agent collaboration [[Paper]](https://arxiv.org/abs/2310.02170)
 - (ICLR 2025) **Agent-Oriented Planning** — Agent-oriented planning in multi-agent systems [[Paper]](https://arxiv.org/abs/2410.02189)
@@ -426,7 +427,7 @@ Graph Engineering provides a structured path from standalone model capability to
 - (arXiv 2024) **StateFlow** — StateFlow: Enhancing LLM Task-Solving through State-Driven Workflows [[Paper]](https://arxiv.org/abs/2403.11322)
 - (arXiv 2024) **AutoGRAMS** — AutoGRAMS: Autonomous Graphical Agent Modeling Software [[Paper]](https://arxiv.org/abs/2407.10049)
 - (arXiv 2024) **Magentic-One** — Magentic-one: A generalist multi-agent system for solving complex tasks [[Paper]](https://arxiv.org/abs/2411.04468)
-- (ICML 2026) **GoS** — Graph of States: Solving Abductive Tasks with Large Language Models [[Paper]](https://icml.cc/virtual/2026/poster/65285)
+- (ICML 2026) **GoS** — Graph of States: Solving Abductive Tasks with Large Language Models [[Paper]](https://icml.cc/virtual/2026/poster/65285) [[Project]](https://luoyu100.github.io/projects/graph-of-states/project/) [[Code]](https://github.com/gaorch85/Graph-of-States)
 - (Paper 2026) **LangGraph** — LangGraph: Low-Level Orchestration for Stateful Agents [[Paper]](https://github.com/langchain-ai/langgraph)
 - (Paper 2026) **Burr** — Apache Burr: Stateful Application and Agent Framework [[Paper]](https://github.com/apache/burr)
 - (arXiv 2025) **Aegis** — Aegis: Taxonomy and Optimizations for Overcoming Agent-Environment Failures in LLM Agents [[Paper]](https://arxiv.org/abs/2508.19504)
