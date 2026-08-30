@@ -45,7 +45,7 @@ Graph Engineering provides a structured path from standalone model capability to
 
 ## Table of Contents
 
-- [Awesome-Graph-Engineering](#awesome-graph-engineering)
+- [Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence](#graph-engineering-in-the-era-of-llm-agents-from-individual-intelligence-to-system-intelligence)
   - [🎉 News](#-news)
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
@@ -78,6 +78,8 @@ Graph Engineering provides a structured path from standalone model capability to
     - [Model Intelligence](#model-intelligence-2)
     - [Individual Intelligence](#individual-intelligence-2)
     - [System Intelligence](#system-intelligence-2)
+      - [Graph Engineering](#graph-engineering)
+      - [Ontology Engineering](#ontology-engineering-1)
   - [🚀 Applications](#-applications)
     - [Software Engineering and IT Operations](#software-engineering-and-it-operations)
     - [Scientific Discovery and Laboratory Automation](#scientific-discovery-and-laboratory-automation)
@@ -424,7 +426,7 @@ Graph Engineering provides a structured path from standalone model capability to
 - (arXiv 2024) **StateFlow** — StateFlow: Enhancing LLM Task-Solving through State-Driven Workflows [[Paper]](https://arxiv.org/abs/2403.11322)
 - (arXiv 2024) **AutoGRAMS** — AutoGRAMS: Autonomous Graphical Agent Modeling Software [[Paper]](https://arxiv.org/abs/2407.10049)
 - (arXiv 2024) **Magentic-One** — Magentic-one: A generalist multi-agent system for solving complex tasks [[Paper]](https://arxiv.org/abs/2411.04468)
-- (arXiv 2026) **Graph of States** — Graph of States: Solving Abductive Tasks with Large Language Models [[Paper]](https://arxiv.org/abs/2603.21250)
+- (ICML 2026) **GoS** — Graph of States: Solving Abductive Tasks with Large Language Models [[Paper]](https://icml.cc/virtual/2026/poster/65285)
 - (Paper 2026) **LangGraph** — LangGraph: Low-Level Orchestration for Stateful Agents [[Paper]](https://github.com/langchain-ai/langgraph)
 - (Paper 2026) **Burr** — Apache Burr: Stateful Application and Agent Framework [[Paper]](https://github.com/apache/burr)
 - (arXiv 2025) **Aegis** — Aegis: Taxonomy and Optimizations for Overcoming Agent-Environment Failures in LLM Agents [[Paper]](https://arxiv.org/abs/2508.19504)
