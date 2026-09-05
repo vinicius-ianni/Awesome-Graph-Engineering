@@ -585,6 +585,7 @@ Reusable projects grouped by their primary engineering target:
 - [slime](https://github.com/THUDM/slime)
 - [vLLM](https://github.com/vllm-project/vllm)
 - [SGLang](https://github.com/sgl-project/sglang)
+- [Reef](https://github.com/Human-Agent-Society/reef)
 
 ### Individual Intelligence
 
