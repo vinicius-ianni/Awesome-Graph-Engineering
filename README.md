@@ -166,6 +166,8 @@ Graph Engineering provides a structured path from standalone model capability to
 - (arXiv 2025) **Agent Lightning** — Agent Lightning: Train ANY AI Agents with Reinforcement Learning [[Paper]](https://arxiv.org/abs/2508.03680)
 - (arXiv 2026) **DynaWeb** — DynaWeb: Model-Based Reinforcement Learning of Web Agents [[Paper]](https://arxiv.org/abs/2601.22149)
 
+- (arXiv 2026) **HAT** — Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report [[Paper]](https://arxiv.org/abs/2608.15763)
+
 #### Prompt Engineering
 
 - (arXiv 2021) **Prompt Programming** — Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm [[Paper]](https://arxiv.org/abs/2102.07350)
